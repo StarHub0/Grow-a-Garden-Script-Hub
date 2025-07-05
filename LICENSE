@@ -1,27 +1,16 @@
-# Star Hub Script License (Custom)
+Star Hub Script License (Custom)
 
-**Copyright © 2025 StarHub0. All rights reserved.**
+Copyright (c) 2025 StarHub0
 
-This software (the “Script”) is proprietary and protected under international copyright law. By using, executing, modifying, or distributing this Script, you agree to the following terms:
+Permission is granted to use this script for personal, non-commercial purposes only, subject to the following restrictions:
 
----
+- Redistribution, republishing, or resale of this script or any part of it is strictly prohibited.
+- Reverse engineering, dumping, deobfuscation, or modification with the intent to bypass protections or extract functionality is not allowed.
+- Public distribution of modified or unmodified versions of this script is forbidden.
+- This script may not be used to create derivative works for public release or commercial purposes.
 
-## ❌ Prohibited Actions
+The script is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the author be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from or in connection with the script or the use or other dealings in the script.
 
-- ❌ Dumping, extracting, or reverse engineering any part of this Script.
-- ❌ Re-uploading, reselling, republishing, or redistributing this Script or its content, whether modified or not.
-- ❌ Bypassing, removing, or tampering with any obfuscation, loader, or protection methods embedded in this Script.
-- ❌ Using this Script for the purpose of cloning, cracking, or generating derivatives for public release.
+This license overrides any standard open-source license terms such as the MIT License.
 
----
-
-## ✅ Allowed Usage
-
-- ✅ You are permitted to execute this Script for personal, non-commercial use only.
-- ✅ You may customize your own configuration files for local use within your executor.
-
----
-
-## ⚠️ Legal Notice
-
-Unauthorized duplication, modification, or distribution of this Script may result in legal action under applicable copyright and anti-circumvention laws. This license overrides permissive redistribution allowed by standard open-source licenses. You are **not authorized to sublicense or commercialize this Script.**
+All rights reserved.
