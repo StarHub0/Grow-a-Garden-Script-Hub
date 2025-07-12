@@ -11,20 +11,30 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StarHub0/Grow-a-Garde
 ## ✅ Features
 
 ### 🔧 Main Features
-- 🌿 **Auto Buy Fruits** (choose from full list)
-- 🛠️ **Auto Buy Gears** (customizable selection)
-- 🪴 Fully integrated UI with dropdowns and toggles.
+- Auto Buy Fruits (choose from a full list)
 
-### 🍉 Harvest Event Automation
-- 🚀 **Auto Collect Fruits** (with teleportation and prompt firing)
-- 🎁 **Auto Give Plants** (submits all plants automatically)
-- 🛍️ **Auto Buy Event Items** (like Summer Seed Packs and special crates)
+- Auto Buy Gears (customizable selection)
+
+- Auto Plant – Automatically plants seeds from your inventory
+
+- Auto Harvest – Automatically collects grown crops
+
+- Auto Sell – Sells harvested items automatically
+
+- Auto Hatch Eggs – Automatically hatches selected eggs
+
+- Auto Place Eggs – Places eggs automatically into incubation spots
+- 
+- Multi-language support – Built-in translation system (BR, DE, PL)
+- 
+- Fully integrated UI with dropdowns and toggles
 
 ### 🛒 Item Support
 Supports automated buying for:
-- 13+ Fruits (Tomato, Cauliflower, Avocado, Banana, etc.)
-- 12+ Gears (Sprinklers, Mirrors, Tools...)
-- Summer Shop items (Delphinium Seed, Oasis Egg, Hamster...)
+🍓 13+ Fruits – e.g., Tomato, Cauliflower, Avocado, Banana
+🧰 12+ Gears – e.g., Sprinklers, Trowel, Magnifying Glass
+🥚 Multiple Eggs – Common, Rare, Legendary, and Event-themed eggs
+🧳 Traveling Merchant – Supports rare and rotating items
 
 ---
 
