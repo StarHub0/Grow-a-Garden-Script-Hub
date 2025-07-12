@@ -24,9 +24,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StarHub0/Grow-a-Garde
 - Auto Hatch Eggs – Automatically hatches selected eggs
 
 - Auto Place Eggs – Places eggs automatically into incubation spots
-- 
+
 - Multi-language support – Built-in translation system (BR, DE, PL)
-- 
+
 - Fully integrated UI with dropdowns and toggles
 
 ### 🛒 Item Support
