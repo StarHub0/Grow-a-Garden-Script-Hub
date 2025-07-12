@@ -21,7 +21,8 @@ return {
         "Beanstalk",
         "Ember Lily",
         "Sugar Apple",
-        "Burning Bud"
+        "Burning Bud",
+        "Giant Pinecone"
     },
     GearsList = {
         "Watering Can",
@@ -84,5 +85,18 @@ return {
         "Farmers Gnome Crate",
         "Classic Gnome Crate",
         "Iconic Gnome Crate",
+
+        "Cauliflower",
+        "Rafflesia",
+        "Green Apple",
+        "Avocado",
+        "Banana",
+        "Pineapple",
+        "Kiwi",
+        "Bell Pepper",
+        "Prickly Pear",
+        "Loquat",
+        "Feijoa",
+        "Pitcher Plant"
     }
 }
