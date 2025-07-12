@@ -299,5 +299,170 @@ return {
         BR = "Evita ser expulso por inatividade simulando atividade do usuário.",
         DE = "Verhindert das Rauswerfen wegen Inaktivität, indem Benutzeraktivität simuliert wird.",
         PL = "Zapobiega wyrzuceniu za bezczynność przez symulowanie aktywności gracza."
+    },
+    ["Pets"] = {
+        BR = "Pets",
+        DE = "Haustiere",
+        PL = "Zwierzęta",
+    },
+    ["Event"] = {
+        BR = "Evento",
+        DE = "Ereignis",
+        PL = "Wydarzenie",
+    },
+    ["Shop"] = {
+        BR = "Loja",
+        DE = "Geschäft",
+        PL = "Sklep",
+    },
+    ["Webhook"] = {
+        BR = "Webhook",
+        DE = "Webhook",
+        PL = "Webhook",
+    },
+    ["Auto Harvest Options"] = {
+        BR = "Opções de Colheita Automática",
+        DE = "Automatische Ernteoptionen",
+        PL = "Opcje Automatycznych Zbiorów",
+    },
+    ["Allow Teleport"] = {
+        BR = "Permitir Teleport",
+        DE = "Teleportieren erlauben",
+        PL = "Zezwól na teleportację",
+    },
+    ["Exclude Growth Mutations"] = {
+        BR = "Excluir Mutações de Crescimento",
+        DE = "Wachstumsmutationen ausschließen",
+        PL = "Wyklucz mutacje wzrostu",
+    },
+    ["Exclude Environmental \nMutations"] = {
+        BR = "Excluir Mutações Ambientais",
+        DE = "Umweltmutationen ausschließen",
+        PL = "Wyklucz mutacje środowiskowe",
+    },
+    ["Seeds"] = {
+        BR = "Sementes",
+        DE = "Samen",
+        PL = "Nasiona",
+    },
+    ["Gears"] = {
+        BR = "Equipamentos",
+        DE = "Ausrüstung",
+        PL = "Wyposażenie",
+    },
+    ["Cosmetics"] = {
+        BR = "Cosméticos",
+        DE = "Kosmetik",
+        PL = "Kosmetyki",
+    },
+    ["Select Cosmetics"] = {
+        BR = "Selecionar Cosméticos",
+        DE = "Kosmetik auswählen",
+        PL = "Wybierz kosmetyki",
+    },
+    ["Auto Buy Cosmetics"] = {
+        BR = "Comprar Cosméticos Automaticamente",
+        DE = "Kosmetik automatisch kaufen",
+        PL = "Automatyczny zakup kosmetyków",
+    },
+    ["Eggs"] = {
+        BR = "Ovos",
+        DE = "Eier",
+        PL = "Jajka",
+    },
+    ["Select Eggs"] = {
+        BR = "Selecionar Ovos",
+        DE = "Eier auswählen",
+        PL = "Wybierz jajka",
+    },
+    ["Auto Buy Eggs"] = {
+        BR = "Comprar Ovos Automaticamente",
+        DE = "Eier automatisch kaufen",
+        PL = "Automatyczny zakup jajek",
+    },
+    ["Traveling Merchant"] = {
+        BR = "Mercador Viajante",
+        DE = "Reisender Händler",
+        PL = "Wędrowny Kupiec",
+    },
+    ["Select Items"] = {
+        BR = "Selecionar Itens",
+        DE = "Artikel auswählen",
+        PL = "Wybierz przedmioty",
+    },
+    ["Auto Buy Traveling Merchant"] = {
+        BR = "Comprar do Mercador Viajante Automaticamente",
+        DE = "Reisenden Händler automatisch kaufen",
+        PL = "Automatyczny zakup u wędrownego kupca",
+    },
+    ["DNA Machine"] = {
+        BR = "Máquina de DNA",
+        DE = "DNA-Maschine",
+        PL = "Maszyna DNA",
+    },
+    ["Automatically delivers only Common Egg pets to the DNA Machine and collects rewards."] = {
+        BR = "Entrega automaticamente apenas animais de Ovos Comuns para a Máquina de DNA e coleta recompensas.",
+        DE = "Liefert automatisch nur gewöhnliche Ei-Haustiere an die DNA-Maschine und sammelt Belohnungen.",
+        PL = "Automatycznie dostarcza tylko zwykłe zwierzaki z jaj do maszyny DNA i odbiera nagrody.",
+    },
+    ["Auto Hatch Eggs"] = {
+        BR = "Chocar Ovos Automaticamente",
+        DE = "Eier automatisch ausbrüten",
+        PL = "Automatyczne wykluwanie jajek",
+    },
+    ["Auto Place Eggs"] = {
+        BR = "Colocar Ovos Automaticamente",
+        DE = "Eier automatisch platzieren",
+        PL = "Automatyczne umieszczanie jajek",
+    },
+    ["Webhook URL"] = {
+        BR = "URL do Webhook",
+        DE = "Webhook-URL",
+        PL = "URL webhooka",
+    },
+    ["🔔 Ping @everyone on Notifications"] = {
+        BR = "🔔 Mencionar @everyone nas Notificações",
+        DE = "🔔 @everyone bei Benachrichtigungen erwähnen",
+        PL = "🔔 Pinguj @everyone przy powiadomieniach",
+    },
+    ["Notify when a seed is purchased"] = {
+        BR = "Notificar quando uma semente for comprada",
+        DE = "Benachrichtigen, wenn ein Samen gekauft wird",
+        PL = "Powiadom, gdy nasiono zostanie kupione",
+    },
+    ["Notify when a gear is purchased"] = {
+        BR = "Notificar quando um equipamento for comprado",
+        DE = "Benachrichtigen, wenn eine Ausrüstung gekauft wird",
+        PL = "Powiadom, gdy sprzęt zostanie kupiony",
+    },
+    ["Notify when an egg is purchased"] = {
+        BR = "Notificar quando um ovo for comprado",
+        DE = "Benachrichtigen, wenn ein Ei gekauft wird",
+        PL = "Powiadom, gdy jajko zostanie kupione",
+    },
+    ["Send Test Webhook"] = {
+        BR = "Enviar Webhook de Teste",
+        DE = "Test-Webhook senden",
+        PL = "Wyślij testowy webhook",
+    },
+    ["Sends a test message to check your Discord Webhook."] = {
+        BR = "Envia uma mensagem de teste para verificar seu Webhook do Discord.",
+        DE = "Sendet eine Testnachricht, um deinen Discord-Webhook zu überprüfen.",
+        PL = "Wysyła wiadomość testową w celu sprawdzenia webhooka Discord.",
+    },
+    ["Toggle to mention everyone when a webhook is sent."] = {
+        BR = "Alternar para mencionar todos quando um webhook for enviado.",
+        DE = "Umschalten, um @everyone zu erwähnen, wenn ein Webhook gesendet wird.",
+        PL = "Przełącz, aby wspomnieć wszystkich podczas wysyłania webhooka.",
+    },
+    ["Webhook Configuration"] = {
+        BR = "Configuração de Webhook",
+        DE = "Webhook-Konfiguration",
+        PL = "Konfiguracja Webhooka",
+    },
+    ["Pet Controls"] = {
+        BR = "Controles dos Animais",
+        DE = "Haustier-Steuerung",
+        PL = "Sterowanie zwierzętami",
     }
 }
