@@ -464,5 +464,11 @@ return {
         BR = "Controles dos Animais",
         DE = "Haustier-Steuerung",
         PL = "Sterowanie zwierzętami",
-    }
+    },
+    ["⚠️ Planting position is not set.\n📍 Please pick a valid position inside the garden."] = {
+        BR = "⚠️ A posição de plantio não está definida.\n📍 Por favor, escolha uma posição válida dentro do jardim.",
+        DE = "⚠️ Pflanzposition ist nicht festgelegt.\n📍 Bitte wähle eine gültige Position im Garten aus.",
+        PL = "⚠️ Pozycja sadzenia nie została ustawiona.\n📍 Proszę wybrać prawidłową pozycję w ogrodzie.",
+    },
+
 }
