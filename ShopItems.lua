@@ -29,6 +29,9 @@ return {
         "Trowel",
         "Recall Wrench",
         "Basic Sprinkler",
+        "Advanced Sprinkler",
+        "Medium Toy",
+        "Medium Treat",
         "Godly Sprinkler",
         "Magnifying Glass",
         "Tanning Mirror",
@@ -36,7 +39,8 @@ return {
         "Cleaning Spray",
         "Favorite Tool",
         "Harvest Tool",
-        "Friendship Pot"
+        "Friendship Pot",
+        "Levelup Lollipop"
     },
     CosmeticList = {
         "Medium Wood Flooring",
@@ -59,16 +63,11 @@ return {
     },
     EggsList = {
         "Common Egg",
-        "Uncommon Egg",
-        "Rare Egg",
-        "Legendary Egg",
-        "Mythical Egg",
-        "Bug Egg",
-
         "Common Summer Egg",
         "Rare Summer Egg",
-        "Bee Egg",
+        "Mythical Egg",
         "Paradise Egg",
+        "Bug Egg"
     },
     TravelingMerchantList = {
         "Night Staff",
