@@ -97,5 +97,18 @@ return {
         "Loquat",
         "Feijoa",
         "Pitcher Plant"
+    },
+    TreasuresList = {
+        "Zen Seed Pack",
+        "Zen Egg",
+        "Hot Spring",
+        "Zen Sand",
+        "Zenflare",
+        "Zen Crate",
+        "Soft Sunshine",
+        "Koi",
+        "Zen Gnome Crate",
+        "Spiked Mango",
+        "Pet Shard Tranquil"
     }
 }
